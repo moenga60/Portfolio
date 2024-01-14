@@ -5,6 +5,7 @@ import Works from "./components/works/Works"
 import Contact from "./components/contact/Contact"
 import Testimonials from "./components/testimonials/Testimonials"
 import "./app.scss"
+import "animate.css";
 import { useState } from "react";
 import Menu  from "./components/menu/Menu";
 
